@@ -20,7 +20,8 @@ $apps = @(
     "Notepad++.Notepad++",
     "Git.Git",
     "Greenshot.Greenshot",
-    "OpenJS.NodeJS"
+    "OpenJS.NodeJS",
+    "GitHub.cli"
 )
 
 # Instalar cada aplicativo da lista
